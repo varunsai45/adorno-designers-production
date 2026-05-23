@@ -1,0 +1,3 @@
+{
+  "rewrites": [{ "source": "/((?!brochure/).*)", "destination": "/index.html" }]
+}
