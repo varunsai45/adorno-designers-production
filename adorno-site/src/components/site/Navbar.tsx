@@ -42,7 +42,6 @@ export function Navbar() {
         <Link to="/" className="flex items-center gap-3 group">
           <div
             className="relative h-10 w-10 overflow-hidden rounded-sm transition"
-            style={{ ring: '1px solid rgba(197,161,74,0.3)' }}
           >
             <img
               src={logo}
